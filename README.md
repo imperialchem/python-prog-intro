@@ -1,3 +1,5 @@
+# An introduction to computer programming using Python
+
 This collection of Jupyter notebooks form the basis of an interactive introduction to computer programming taught to
 chemistry undergraduate students at Imperial College London. It benefits from an earlier [course focussed on data analysis](https://github.com/imperialchem/python-data-viz-intro), but does not build uppon and does not depend on it.
 
