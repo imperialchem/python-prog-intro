@@ -13,7 +13,7 @@ and working with Python code.
 
 The structure of the course is as follows:
 
-### [Workshop 1](blob/master/prog_workshop1/prog_workshop1.ipynb)
+### [Workshop 1](https://github.com/imperialchem/python-prog-intro/blob/master/prog_workshop1/prog_workshop1.ipynb)
 
 * Basic data types ---numbers (integers, floating point, complex),  strings, booleans--- and their operations.
 * Conditional statements
@@ -21,24 +21,25 @@ The structure of the course is as follows:
 * Lists
 * Other data structures
 
-### [Workshop 2](blob/master/prog_workshop2/prog_workshop2.ipynb)
+### [Workshop 2](https://github.com/imperialchem/python-prog-intro/blob/master/prog_workshop2/prog_workshop2.ipynb)
 
 * *For* and *While* loops
 * Functions (and a how to call methods)
 
-### [Workshop 3](blob/master/prog_workshop3/prog_workshop3.ipynb)
+### [Workshop 3](https://github.com/imperialchem/python-prog-intro/blob/master/prog_workshop3/prog_workshop3.ipynb)
 
 * Using loops to do work; nested loop structures.
 * Using external modules.
 * Standalone scripts and prompting for input.
 
-### [Workshop 4](blob/master/prog_workshop4/prog_workshop4.ipynb)
+### [Workshop 4](https://github.com/imperialchem/python-prog-intro/blob/master/prog_workshop4/prog_workshop4.ipynb)
 
 * Dealing with files: writing, reading, parsing.
 
 The notebooks and related materials are made available under the [Creative Commons Attribution 4.0 (CC-by) license](https://creativecommons.org/licenses/by/4.0/),
-and can be downloaded as a [zip archive[(archive/master.zip). In order to use the notebooks interactively in your
-computer you will need to have a python interpreter (version 3.x) and the Jupyter notebook installed, both can be obtained,
-for example, by installing the [Anaconda](https://www.continuum.io/downloads) distribution.
+and can be downloaded as a [zip archive](https://github.com/imperialchem/python-prog-intro/archive/master.zip).
+In order to use the notebooks interactively in your computer you will need to have a python interpreter (version 3.x)
+and the Jupyter notebook installed, both can be obtained, for example, by installing the
+[Anaconda](https://www.continuum.io/downloads) distribution.
 
 We are interested in your [feedback](mailto:python@imperial.ac.uk) and to hear about other ways this material is being used.
