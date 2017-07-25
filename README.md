@@ -1,14 +1,16 @@
 # An introduction to computer programming using Python
 
-This collection of Jupyter notebooks form the basis of an interactive introduction to computer programming taught to
-chemistry undergraduate students at Imperial College London. It benefits from an earlier [course focussed on data analysis](https://github.com/imperialchem/python-data-viz-intro), but does not build uppon and does not depend on it.
+This collection of Jupyter notebooks and accompanying material form the basis of an interactive introduction to computer
+programming taught to chemistry undergraduate students at Imperial College London. It benefits from an earlier
+[course focussed on data analysis](https://github.com/imperialchem/python-data-viz-intro),
+but does not build uppon and does not depend on it.
 
 As the name of the course suggests, the goal is not exactly to teach Python, but rather to use Python to teach
 features and constructs that are common in many imperative programming languages. Object-oriented features in
 Python are not covered, and therefore object specific methods are not used (in workshop 4, the convenience of some methods
 when processing strings lead to deviations from this principle). These choices may seem odd to Python programmers
 who will find more elegant ways of solving problems, but they keep the course shorter and more consistent, and hopefully
-more approachable to biginner programmers. Still it is expected that the students will develop a good basis to start reading
+more approachable to beginner programmers. Still, it is expected that the students will develop a good basis to start reading
 and working with Python code.
 
 The structure of the course is as follows:
@@ -24,7 +26,7 @@ The structure of the course is as follows:
 ### [Workshop 2](https://github.com/imperialchem/python-prog-intro/blob/master/prog_workshop2/prog_workshop2.ipynb)
 
 * *For* and *While* loops
-* Functions (and a how to call methods)
+* Defining functions (and a how to invoke methods)
 
 ### [Workshop 3](https://github.com/imperialchem/python-prog-intro/blob/master/prog_workshop3/prog_workshop3.ipynb)
 
