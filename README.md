@@ -3,7 +3,7 @@
 This collection of Jupyter notebooks and accompanying material form the basis of an interactive introduction to computer
 programming taught to chemistry undergraduate students at Imperial College London. It benefits from an earlier
 [course focussed on data analysis](https://github.com/imperialchem/python-data-viz-intro),
-but does not build uppon and does not depend on it.
+but does not build upon and does not depend on it.
 
 As the name of the course suggests, the goal is not exactly to teach Python, but rather to use Python to teach
 features and constructs that are common in many imperative programming languages. Object-oriented features in
@@ -44,4 +44,4 @@ In order to use the notebooks interactively in your computer you will need to ha
 and the Jupyter notebook installed, both can be obtained, for example, by installing the
 [Anaconda](https://www.continuum.io/downloads) distribution.
 
-We are interested in your [feedback](mailto:python@imperial.ac.uk) and to hear about other ways this material is being used.
+We are interested in your [feedback](mailto:chemgit@imperial.ac.uk) and to hear about other ways this material is being used.
