@@ -44,4 +44,4 @@ In order to use the notebooks interactively in your computer you will need to ha
 and the Jupyter notebook installed, both can be obtained, for example, by installing the
 [Anaconda](https://www.continuum.io/downloads) distribution.
 
-We are interested in your [feedback](mailto:chemgit@imperial.ac.uk) and to hear about other ways this material is being used.
+We are interested in your [feedback](mailto:chemistry-git@imperial.ac.uk) and to hear about other ways this material is being used.
