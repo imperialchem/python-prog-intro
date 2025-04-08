@@ -1,5 +1,5 @@
 def fibonacci(sequence_length):
-    "Return the Fibonacci sequence of length *sequence_length*"
+    """Return the Fibonacci sequence of length *sequence_length*."""
     sequence = [0,1]
     if sequence_length < 1:
         print("Fibonacci sequence only defined for length 1 or greater")
@@ -10,7 +10,7 @@ def fibonacci(sequence_length):
     return sequence
 
 def factorial(n):
-    "Return the factorial of number *n*"
+    """Return the factorial of number *n*."""
     num = 1
     while n >= 1:
         num = num * n
